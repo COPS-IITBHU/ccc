@@ -1,0 +1,12 @@
+; Function definition
+defun foo (c:integer, b:integer):integer {
+  c := 10
+  c := 5
+  c := 42
+  c := 69
+  c := 420
+  c := 69
+}
+
+; Function call
+foo(20, 34)
