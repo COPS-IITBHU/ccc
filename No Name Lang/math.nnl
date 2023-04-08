@@ -1,0 +1,2 @@
+; Binary operators with precedence
+5 + 7 / 8 * 5 - 2

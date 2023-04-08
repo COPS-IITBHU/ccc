@@ -1,0 +1,12 @@
+; Variable declaration
+a : integer = 69
+
+; Variable re-assignment
+a := 420
+
+; Variable declaration with 0, Variable re-assignment
+b : integer
+b := 42
+
+; Variable re-definition, Error
+b : integer
